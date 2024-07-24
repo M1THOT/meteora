@@ -1,0 +1,25 @@
+.texto-menor{
+    font-size: 11px;
+}
+
+.div-facilidades{
+    width: 325px;
+}
+
+.bg-cor-roxa{
+    background-color: #9353FF;
+}
+
+.cor-verde{
+   color: #DAFF01;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
